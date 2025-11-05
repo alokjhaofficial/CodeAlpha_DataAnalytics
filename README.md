@@ -43,4 +43,5 @@ This project explores Netflix Movies & TV Shows metadata to understand content m
 - Optional: titles added per year using `date_added` (line)  
 - Correlation heatmap for numeric columns (when available)  
 
-## Project Structure
+
+
